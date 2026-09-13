@@ -24,7 +24,7 @@ A personal portfolio showcasing my work in **Python & AI/ML**, **MERN stack deve
 | --- | --- | --- |
 | Hiring Assistant Chatbot | MERN Ecommerce | Restaurant Management |
 | AI Report Maker | MERN Twitter Clone | Financial Deal Management |
-| Face & Mood Recognition | Notes Management App | Task Management |
+| Face & Mood Recognition | Talent IQ Interview Platform | Task Management |
 
 These applications are showcased in the portfolio; their implementations live in their linked repositories.
 
